@@ -1,6 +1,6 @@
 # Kotlin from Zero to Junior – Stepik Course Solutions
 
-![Stepik Awards 2024](https://stepik.org/course/207758/syllabus)
+![Stepik Awards 2024](https://cdn.stepik.net/media/cache/images/courses/207758/cover_0xm2U0N/67ce232a902322bbcbbbb1e36202f3fb.png)
 
 ## О курсе – Kotlin Tutorial и Упражнения
 
