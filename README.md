@@ -1,48 +1,47 @@
-# Kotlin from Zero to Junior – Stepik Course Solutions
+# Kotlin from Zero to Junior – My Stepik Course Exercises
 
 ![Stepik Awards 2024](https://cdn.stepik.net/media/cache/images/courses/207758/cover_0xm2U0N/67ce232a902322bbcbbbb1e36202f3fb.png)
 
-## О курсе – Kotlin Tutorial и Упражнения
+## О курсе – Мои Kotlin упражнения и проекты
 
-Этот репозиторий используется для выполнения всех **Kotlin exercises**, заданий и практических проектов из курса **«Kotlin с нуля до Junior»** на Stepik: [Ссылка на курс](https://stepik.org/course/207758/syllabus).
+Я использую этот репозиторий для выполнения всех **Kotlin exercises**, заданий и практических проектов из курса **«Kotlin с нуля до Junior»** на Stepik: [Ссылка на курс](https://stepik.org/course/207758/syllabus).
 
-Курс является победителем **Stepik Awards 2024** в номинации "Лучший курс по языкам программирования".
+Курс стал победителем **Stepik Awards 2024** в номинации "Лучший курс по языкам программирования".
 
-В рамках курса вы изучите **Kotlin для начинающих** с нуля, освоите современные возможности языка, создадите практические проекты и будете готовы к собеседованию на позицию Junior Kotlin Developer.
+Моя цель – изучить **Kotlin с нуля**, освоить современные возможности языка, создать собственные проекты и подготовиться к собеседованию на позицию Junior Kotlin Developer. Также я хочу постепенно начать изучать современную Android-разработку и практиковаться с реальными задачами.
 
-### Почему Kotlin популярен
+### Почему я выбрал Kotlin
 
-- **Современный синтаксис** – лаконичный и удобный для начинающих по сравнению с Java.
-- **Совместимость с Java** – позволяет легко мигрировать на Kotlin.
-- **Официальная поддержка Google** – предпочтительный язык для Android-разработки.
-- **Многоплатформенность** – писать код для Android, iOS, веба и серверов.
-- **Сильное сообщество и развитие** – язык активно развивается компанией JetBrains.
+- **Современный синтаксис** – лаконичный и удобный по сравнению с Java.
+- **Совместимость с Java** – позволяет плавно переходить от Java к Kotlin.
+- **Официальная поддержка Google** – Kotlin предпочтителен для Android-разработки.
+- **Многоплатформенность** – возможность писать код для Android, iOS, веба и серверов.
+- **Сильное сообщество и развитие** – язык активно развивается компанией JetBrains, много ресурсов и библиотек.
 
-### Для кого курс
+### Кому будет полезен этот репозиторий
 
-Курс подходит для **начинающих программистов** и разработчиков с опытом. Вы сможете освоить Kotlin с нуля, углубить знания и закрепить навыки через практические задания, упражнения и реальные проекты.
+Этот репозиторий будет полезен **новичкам**, которые хотят изучить Kotlin с нуля, а также всем, кто хочет закрепить знания через практику на реальных проектах и заданиях.
 
 ---
 
-## Course in English – Kotlin Tutorial and Exercises
+## Course in English – My Kotlin Exercises and Projects
 
-# Kotlin from Zero to Junior – Stepik Course Solutions
+# Kotlin from Zero to Junior – Stepik Course Exercises
 
-This repository contains **Kotlin exercises**, assignments, and practical projects from the **“Kotlin from Zero to Junior”** course on Stepik: [Course link](https://stepik.org/course/207758/syllabus).
+I use this repository to complete **Kotlin exercises**, assignments, and projects from the **“Kotlin from Zero to Junior”** course on Stepik: [Course link](https://stepik.org/course/207758/syllabus).
 
-The course is a winner of **Stepik Awards 2024** in the category "Best Programming Language Course".
+The course is a winner of **Stepik Awards 2024** in the "Best Programming Language Course" category.
 
-In this course, you will learn **Kotlin for beginners** from scratch, even without prior programming experience. You will master modern Kotlin features, complete practical projects, and be fully prepared for a Junior Kotlin Developer interview.
+My goal is to learn **Kotlin from scratch**, explore modern language features, create my own projects, and prepare for a Junior Kotlin Developer interview. I also aim to start learning modern Android development and practice real-world coding tasks.
 
-### Why Kotlin is Popular
+### Why I Chose Kotlin
 
 - **Modern Syntax** – concise and beginner-friendly compared to Java.
-- **Java Compatibility** – allows smooth migration from Java.
-- **Official Google Support** – preferred language for Android development.
+- **Java Compatibility** – allows a smooth transition from Java to Kotlin.
+- **Official Google Support** – Kotlin is the preferred language for Android development.
 - **Multiplatform** – write code for Android, iOS, web, and servers.
-- **Strong Community & Development** – actively maintained by JetBrains.
+- **Strong Community & Development** – actively maintained by JetBrains with many libraries and resources.
 
-### Who the Course is For
+### Who This Repository is For
 
-The course is perfect for **beginner programmers** and developers with experience. You will learn Kotlin from scratch, deepen your knowledge, and practice with exercises, assignments, and real-world projects.
-
+This repository is useful for **beginners** who want to learn Kotlin from scratch and anyone who wants to strengthen their skills through practical exercises and real projects.
