@@ -33,32 +33,27 @@ Sample Output:
 
 */
 fun main() {
-    var amountOfTax: Int = 0
-    var enginePower: Int = 0
-    var taxRate: Int = 0
+    val enginePower = readln().toIntOrNull() ?: 0
 
-    //print("Введите мощность вашего автомобиля: ")
-    enginePower = readln().toIntOrNull() ?: 0
-
-    if (enginePower <= 100) {
-        taxRate = 10
-    } else if (enginePower > 100 && enginePower <= 150) {
-        taxRate = 34
-    } else if (enginePower > 150 && enginePower <= 200) {
-        taxRate = 49
-    } else if (enginePower > 200 && enginePower <= 250) {
-        taxRate = 75
-    } else if (enginePower > 250) {
-        taxRate = 150
+    val taxRate = if (enginePower <= 100) {
+        10
+    } else if (enginePower <= 150) { // Уже выполнилось enginePower > 100
+        34
+    } else if (enginePower <= 200) { // Уже выполнилось enginePower > 150
+        49
+    } else if (enginePower <= 250) { // Уже выполнилось enginePower > 200
+        75
+    } else { // Все остальные случаи (enginePower > 250)
+        150
     }
-    amountOfTax = enginePower * taxRate
+
+    val amountOfTax = enginePower * taxRate
 
     println("Вид ТС: легковой автомобиль")
     println("Мощность двигателя: $enginePower л.с.")
     println("Налоговая ставка: $taxRate руб./л.с.")
     println("Сумма налога: ${amountOfTax} руб.")
 }
-
 
 /*
 📑 Cheat Sheet по уроку 2.7
