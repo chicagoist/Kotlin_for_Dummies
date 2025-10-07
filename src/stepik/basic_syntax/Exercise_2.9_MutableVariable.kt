@@ -11,6 +11,23 @@ package stepik.basic_syntax
 
 fun main() {
     val temperature = readln().toInt()
+    val airConditionIsOn = false
+
+
+    if(temperature > 25) {
+     val   airConditionIsOn = true
+    }else if (temperature < 20) {
+        val airConditionIsOn = false
+
+    } else {
+
+    }
+    println("Air conditioner is on: $airConditionIsOn")
+}
+
+/*
+fun main() {
+    val temperature = readln().toInt()
     val hot: Boolean = temperature > 25
     val cold = temperature < 20
 
@@ -23,6 +40,7 @@ fun main() {
     }
 }
 
+*/
 
 /*
 fun main() {
